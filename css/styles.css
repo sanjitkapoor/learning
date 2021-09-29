@@ -61,5 +61,11 @@ body {
 }
 
 #smoke input {
-	visibility:hidden;
+	visibility: hidden;
+}
+
+#carousel-button {
+	right: 0px;
+	position: absolute;
+	bottom: 0px;
 }
